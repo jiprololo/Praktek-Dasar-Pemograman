@@ -6,3 +6,4 @@ public class LatihanAjie {
         System.out.print("\nBeljar Java Itu Mudah!");
         //System.out.print("\nSemakin sering mencoba, semakin jago.");
     }
+}
