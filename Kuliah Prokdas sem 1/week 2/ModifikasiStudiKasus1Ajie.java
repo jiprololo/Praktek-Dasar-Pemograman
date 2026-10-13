@@ -19,5 +19,6 @@ public class ModifikasiStudiKasus1Ajie
         double gajiBersih = gajiPokok + totalTunjangan - potonganPensiun;
 
         System.out.println("Gaji Bersih yang Diterima: Rp " + gajiBersih);
+        sc.close();
     }
 }

@@ -21,5 +21,7 @@ public class BiayaCetakJie {
         System.out.println("Biaya cetak (" + jumlahLembar + " lembar) : Rp " + biayaCetak);
         System.out.println("Biaya penjilidan           : Rp " + biayaJilid);
         System.out.println("Total biaya yang dibayar   : Rp " + totalBiaya);
+        
+        sc.close();
     }
 }

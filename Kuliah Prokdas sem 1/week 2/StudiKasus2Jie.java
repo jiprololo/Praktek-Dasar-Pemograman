@@ -24,5 +24,6 @@ public class StudiKasus2Jie {
         double luasSisa = luasTanah - (luasKolam + luasTaman);
 
         System.out.println("Luas tanah yang tidak digunakan: " + luasSisa + " m2");
+        sc.close();
     }
 }

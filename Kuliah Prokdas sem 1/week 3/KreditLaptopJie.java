@@ -25,5 +25,7 @@ public class KreditLaptopJie {
         System.out.println("Sisa harga laptop        : Rp " + sisaHarga);
         System.out.println("Bunga per bulan (2%)     : Rp " + bunga);
         System.out.println("Jumlah cicilan per bulan : Rp " + cicilanPerBulan);
+    
+    sc.close();
     }
 }
